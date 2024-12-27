@@ -1,0 +1,15 @@
+*.iml
+/Jetpack_Calci/.gradle
+/Jetpack_Calci/local.properties
+/Jetpack_Calci/.idea/caches
+/Jetpack_Calci/.idea/libraries
+/Jetpack_Calci/.idea/modules.xml
+/Jetpack_Calci/.idea/workspace.xml
+/Jetpack_Calci/.idea/navEditor.xml
+/Jetpack_Calci/.idea/assetWizardSettings.xml
+Jetpack_Calci/.DS_Store
+Jetpack_Calci/build
+Jetpack_Calci/captures
+Jetpack_Calci/.externalNativeBuild
+Jetpack_Calci/.cxx
+Jetpack_Calci/local.properties
